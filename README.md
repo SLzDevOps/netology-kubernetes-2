@@ -2,6 +2,8 @@
 
 ## Ссылка на Д3 - https://github.com/netology-code/kuber-homeworks/blob/main/1.2/1.2.md
 
+## Ссылка на репозиторий - https://github.com/SLzDevOps/netology-kubernetes-2
+
 
 ### Чек-лист перед выполнением
 
